@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <name>DJ Healy</name>
+    <overview>I&#x27;m a sporty nerd who regularly does coding while doing boxing and airsoft, I recently moved to Newcastle as I&#x27;m a Geordie at heart - Howay the Lads! I was first introduced to Java when I was 18 and have worked with it in the industry for the last 3 years</overview>
+    <Skills>Full Stack Software Development</Skills>
+    <Skills>Problem Solving</Skills>
+    <Skills>Analytical</Skills>
+    <Skills>Teamwork</Skills>
+    <Education>
+        <Qualification>BSc Applied Computing</Qualification>
+        <Institution>Northumbria University</Institution>
+        <Year_Completed>2020</Year_Completed>
+    </Education>
+    <Work_Experience>
+        <Position>Application Development Associate</Position>
+        <Company>Accenture</Company>
+        <Date_From>2021</Date_From>
+        <Date_To>2023</Date_To>
+    </Work_Experience>
+</root>
